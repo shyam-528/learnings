@@ -1,0 +1,13 @@
+# Java build output
+*.class
+
+# Demo artifacts created by running the programs
+notes.txt
+player.ser
+
+# IDE / OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
